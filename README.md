@@ -5,6 +5,11 @@
 Add your name and click start
 ![Website photo](/imgs/step1.png)
 
+## step 2
+
+open a new tab
+![Website photo](/imgs/step2.png)
+
 ## Available Scripts
 
 Write npm install to install all the packages
